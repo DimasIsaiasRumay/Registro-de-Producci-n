@@ -1,19 +1,19 @@
-ID,Nombre Abreviado,Nombre Completo
-1,Federico,Federico Martin GastaldI
-2,Mariano L,Mariano Mauro Lizarraga
-3,Alexis,Alexis Lizarraga
-4,Alexander,Alexander Munera
-5,Anthony,Anthony Vincent Valencia Florez
-6,Jose Luis,Jose Luis Veloza Arango
-7,Rey,Jose Reinel Tovar leal
-8,Nelson,Nelson Daniel Burgos
-9,Diego P,Diego Javier Peralta
-10,Matias,Matias Cayo Roque
-11,.Jesus,Jesus Marcelo Juncos
-12,Ale Zalazar,Miguel Alejandro Zalazar
-15,Ruben,Ruben Benjamin Ferreyra
-16,Dario,Dario Pagliari
-18,Alejandro,Ernesto Alejandro Gaitan
-21,Rodrigo,Rodrigo Emanuel Oviedo
-22,Jorge,Jorge Luis Mendez Nelo
-24,Sergio,Sergio Rios
+ID,Nombre Abreviado,Nombre Completo,Rol,Tipo MO
+1,Federico,Federico Martin GastaldI,Jefe de Planta,MOI
+2,Mariano L,Mariano Mauro Lizarraga,Operario,MOD
+3,Alexis,Alexis Lizarraga,Operario Sola,MOI
+4,Alexander,Alexander Munera,Operario,MOD
+5,Anthony,Anthony Vincent Valencia Florez,Operario Soldador,MOD
+6,Jose Luis,Jose Luis Veloza Arango,Responsable Calidad y Mantenimiento,MOI
+7,Rey,Jose Reinel Tovar leal,Operario,MOD
+8,Nelson,Nelson Daniel Burgos,Operario,MOD
+9,Diego P,Diego Javier Peralta,Operario Plegador,MOD
+10,Matias,Matias Cayo Roque,Operario,MOD
+11,.Jesus,Jesus Marcelo Juncos,Operario,MOD
+12,Ale Zalazar,Miguel Alejandro Zalazar,Operario,MOD
+15,Ruben,Ruben Benjamin Ferreyra,Operario Soldador,MOD
+16,Dario,Dario Pagliari,Operario Conductor,MOD
+18,Alejandro,Ernesto Alejandro Gaitan,Operario Soldador,MOD
+21,Rodrigo,Rodrigo Emanuel Oviedo,Operario,MOD
+22,Jorge,Jorge Luis Mendez Nelo,Operario,MOD
+24,Sergio,Sergio Rios,Pañolero,MOI
