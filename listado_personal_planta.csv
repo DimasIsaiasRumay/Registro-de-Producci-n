@@ -1,7 +1,7 @@
 ID,Nombre Abreviado,Nombre Completo,Rol,Tipo MO
 1,Federico,Federico Martin GastaldI,Jefe de Planta,MOI
 2,Mariano L,Mariano Mauro Lizarraga,Operario,MOD
-3,Alexis,Alexis Lizarraga,Operario Sola,MOI
+3,Alexis,Alexis Lizarraga,Operario Externo,MOI
 4,Alexander,Alexander Munera,Operario,MOD
 5,Anthony,Anthony Vincent Valencia Florez,Operario Soldador,MOD
 6,Jose Luis,Jose Luis Veloza Arango,Responsable Calidad y Mantenimiento,MOI
@@ -17,3 +17,4 @@ ID,Nombre Abreviado,Nombre Completo,Rol,Tipo MO
 21,Rodrigo,Rodrigo Emanuel Oviedo,Operario,MOD
 22,Jorge,Jorge Luis Mendez Nelo,Operario,MOD
 24,Sergio,Sergio Rios,Pañolero,MOI
+
